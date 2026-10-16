@@ -1,0 +1,13 @@
+Paper item	Program	Line	Output	Input
+Figure 1 (fig:delays)	code/06_report.py	483	figures/fig_delays.pdf	data/derived/delays.parquet; results/delay_overall.csv
+Table 1 (tab:platforms)	code/06_report.py	65	tex/tab_platforms.tex	results/delay_platform.csv
+Table 2 (tab:vintage)	code/06_report.py	90	tex/tab_vintage.tex	results/vintage_total.csv
+Figure 2 (fig:vintages)	code/06_report.py	505	figures/fig_vintages.pdf	results/vintage_total_exgs.csv; results/vintage_platform.csv
+Table 3 (tab:spikes)	code/06_report.py	109	tex/tab_spikes.tex	results/spikes.csv
+Table 4 (tab:rd)	code/06_report.py	155	tex/tab_rd.tex	results/rd_platform.csv; results/rd_pooled.csv
+Table 5 (tab:rdplat)	code/06_report.py	353	tex/tab_rdplat.tex	results/rd_platform.csv
+Figure 3 (fig:migration)	code/06_report.py	529	figures/fig_migration.pdf	data/derived/delays.parquet; results/rd_series.csv
+Table 6 (tab:robust)	code/06_report.py	166	tex/tab_robust.tex	results/rd_robust.csv
+Table 7 (sec:bounded)	code/07_bounded_rd.py	43	tex/bounded_rd.tex	results/rd_series.csv
+Table 8 (tab:nowcast)	code/06_report.py	242	tex/tab_nowcast.tex	results/nowcast_summary.csv; results/nowcast.json
+Figure 4 (fig:nowcast)	code/06_report.py	542	figures/fig_nowcast.pdf	results/nowcast_errors.csv

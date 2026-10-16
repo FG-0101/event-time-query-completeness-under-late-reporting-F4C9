@@ -1,0 +1,11 @@
+{
+  "OS": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "Python": "Python 3.14.7",
+  "Third-party Python packages": "contourpy 1.4.0; cycler 0.12.1; duckdb 1.5.5; fonttools 4.65.0; formulaic 1.2.2; interface_meta 2.0.1; kiwisolver 1.5.1; matplotlib 3.11.2; narwhals 2.27.1; numpy 2.5.3; packaging 26.3; pandas 3.0.5; patsy 1.0.3; pillow 12.3.0; pyarrow 26.0.0; pyparsing 3.3.2; python-dateutil 2.9.0.post0; scipy 1.18.1; six 1.17.0; statsmodels 0.15.0; typing_extensions 4.16.0; wrapt 2.5.0",
+  "Measured complete-run seconds": 89.0,
+  "Generated run bytes": 19738399,
+  "CPU seconds per child": 120,
+  "Child priority nice increment": 15,
+  "Numeric threads": "OMP_NUM_THREADS=OPENBLAS_NUM_THREADS=MKL_NUM_THREADS=VECLIB_MAXIMUM_THREADS=NUMEXPR_NUM_THREADS=2",
+  "Random seeds": "Fixed seed 20261010 for the bounded-share ridge fit and its 400 circular seven-day moving-block bootstrap; the other analysis programs draw no random numbers"
+}

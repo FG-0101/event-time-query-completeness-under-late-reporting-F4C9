@@ -1,0 +1,14 @@
+European Commission, DSA Transparency Database, https://transparency.dsa.ec.europa.eu/
+The retained reductions under data/ (the 37 monthly reporting triangles and the
+delay reductions built from them) derive from publisher aggregate data and
+structured daily records released under CC BY 4.0 unless otherwise indicated.
+Attribution and an indication of changes are required; see LICENSE.txt and
+https://transparency.dsa.ec.europa.eu/page/data-license?lang=en.
+
+The bundled fonts under code/fonts/ are Linux Libertine (SIL Open Font
+License 1.1, code/fonts/OFL.txt), used by the report program to render the
+manuscript figures.
+
+Third-party Python packages (duckdb, matplotlib, numpy, pandas, pyarrow, scipy,
+statsmodels and their dependencies) are installed external dependencies and are
+not vendored.
